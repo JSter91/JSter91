@@ -8,7 +8,7 @@ const JSter = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         Vcs : [Git, Github],
-        frontEnd: [Html, Css, Js, React, tailwind,bootstrap],
+        frontEnd: [Html, Css, Js, React, Tailwind, Bootstrap],
         backEnd: [NodeJs, Sql]
     }
 };
