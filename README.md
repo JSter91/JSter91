@@ -9,7 +9,7 @@ const JSter = {
     technologies: {
         Vcs : [Git, Github],
         frontEnd: [Html, Css, Js, React, Nextjs, Tailwind],
-        backEnd: [NodeJs, Sql, mongoDb]
+        backEnd: [NodeJs, Sql, MongoDB]
     }
 };
 ```
